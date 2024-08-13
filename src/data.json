@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Smart Watch Pro",
+    "price": 199.99,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.z8FnZH-EdzeOPJLvW86V_QAAAA&pid=Api&P=0&h=180",
+    "description": "Advanced smartwatch with health tracking features.",
+    "ratings": 4
+  },
+  {
+    "id": 2,
+    "name": "Wireless Earbuds X",
+    "price": 99.99,
+    "image": "https://tse1.mm.bing.net/th?id=OIP.oCkT99j3aaQabe4zncRgrgAAAA&pid=Api&P=0&h=180",
+    "description": "High-quality wireless earbuds with noise cancellation.",
+    "ratings": 5
+  },
+  {
+    "id": 3,
+    "name": "4K Ultra HD TV",
+    "price": 599.99,
+    "image": "https://cdn1.smartprix.com/rx-i8OC0Z7b5-w1200-h1200/8OC0Z7b5.jpg",
+    "description": "Ultra HD TV with crystal clear picture quality.",
+    "ratings": 4
+  },
+  {
+    "id": 4,
+    "name": "Gaming Laptop Pro",
+    "price": 1499.99,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.mpbhkkIoqPvzvi7T-nfYFQHaEK&pid=Api&P=0&h=180",
+    "description": "High-performance laptop for gaming and productivity.",
+    "ratings": 5
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": 49.99,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.Gp85iPyB9rKglpO1yI_zogAAAA&pid=Api&P=0&h=180",
+    "description": "Portable Bluetooth speaker with deep bass.",
+    "ratings": 4
+  },
+  {
+    "id": 6,
+    "name": "Smartphone X",
+    "price": 999.99,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.pCWe0XlmUQD9WORY4jsW8AHaGs&pid=Api&P=0&h=180",
+    "description": "Latest smartphone with cutting-edge technology.",
+    "ratings": 4
+  },
+  {
+    "id": 7,
+    "name": "Fitness Tracker",
+    "price": 79.99,
+    "image": "https://tse4.mm.bing.net/th?id=OIP.cytEk-DhSldjt1F5jvBdLAAAAA&pid=Api&P=0&h=180",
+    "description": "Track your fitness activities and monitor health stats.",
+    "ratings": 3
+  },
+  {
+    "id": 8,
+    "name": "Wireless Charger",
+    "price": 29.99,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.gp1BUBpuBXmamvmoxZa7RwHaHa&pid=Api&P=0&h=180",
+    "description": "Fast wireless charger for all your devices.",
+    "ratings": 4
+  },
+  {
+    "id": 9,
+    "name": "Tablet Pro",
+    "price": 399.99,
+    "image": "https://i5.walmartimages.com/asr/f567c561-2d57-4108-ba9b-2efd913de37c.330136ef72f308a8386b064d28dccf7b.png",
+    "description": "Lightweight tablet with high-resolution display.",
+    "ratings": 4
+  },
+  {
+    "id": 10,
+    "name": "DSLR Camera",
+    "price": 899.99,
+    "image": "https://www.bhphotovideo.com/images/images2000x2000/fujifilm_16542622_x_t20_camera_with_xf18_55mm_1311270.jpg",
+    "description": "Professional DSLR camera with interchangeable lenses.",
+    "ratings": 5
+  },
+  {
+    "id": 11,
+    "name": "Wireless Mouse",
+    "price": 24.99,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.xqCqw-VCxJGHBTBsn0rqoAHaHa&pid=Api&P=0&h=180",
+    "description": "Ergonomic wireless mouse with customizable buttons.",
+    "ratings": 4
+  },
+  {
+    "id": 12,
+    "name": "Gaming Headset",
+    "price": 59.99,
+    "image": "https://compujordan.com/image/cache/catalog/products/rampage/HeadPhones/81QCe2acqbL._SL1500_-1200x1200.jpg",
+    "description": "Comfortable gaming headset with surround sound.",
+    "ratings": 4
+  },
+  {
+    "id": 13,
+    "name": "Smart Home Hub",
+    "price": 129.99,
+    "image": "https://tse4.mm.bing.net/th?id=OIP.mCeUQHsN14M--_AfZZTqfwHaF4&pid=Api&P=0&h=180",
+    "description": "Control your smart home devices with ease.",
+    "ratings": 4
+  },
+  {
+    "id": 14,
+    "name": "Electric Kettle",
+    "price": 39.99,
+    "image": "https://tse4.mm.bing.net/th?id=OIP._lvg-zoM65YVkRmD0uVmQwHaHa&pid=Api&P=0&h=180",
+    "description": "Quick-boil electric kettle with temperature control.",
+    "ratings": 4
+  },
+  {
+    "id": 15,
+    "name": "Air Purifier",
+    "price": 199.99,
+    "image": "https://tse4.mm.bing.net/th?id=OIP._6qXnPqnb0fAwASyVv-a0wHaHa&pid=Api&P=0&h=180",
+    "description": "Keep your indoor air clean and fresh.",
+    "ratings": 4
+  },
+  {
+    "id": 16,
+    "name": "Smart Light Bulbs",
+    "price": 29.99,
+    "image": "http://static.dezeen.com/uploads/2016/01/light-bulb-dezeen.jpg",
+    "description": "Control your lights with your smartphone.",
+    "ratings": 3
+  },
+  {
+    "id": 17,
+    "name": "Home Security Camera",
+    "price": 89.99,
+    "image": "https://www.bhphotovideo.com/images/images2500x2500/Lorex_CVC6941_Indoor_Outdoor_Color_Security_Camera_803386.jpg",
+    "description": "Monitor your home from anywhere with HD video.",
+    "ratings": 4
+  },
+  {
+    "id": 18,
+    "name": "Robot Vacuum Cleaner",
+    "price": 299.99,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.nk5DQpU_j1k-GJr_85YIiAHaHa&pid=Api&P=0&h=180",
+    "description": "Automated vacuum cleaner with smart navigation.",
+    "ratings": 5
+  },
+  {
+    "id": 19,
+    "name": "Coffee Maker",
+    "price": 79.99,
+    "image": "https://tse4.mm.bing.net/th?id=OIP.yM7YtGjJ6UWBNnVe7Qtj0QAAAA&pid=Api&P=0&h=180",
+    "description": "Brew your favorite coffee with this programmable machine.",
+    "ratings": 4
+  },
+  {
+    "id": 20,
+    "name": "Electric Toothbrush",
+    "price": 49.99,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.e6os6gx0ngCNNFLRTAJsQgHaHa&pid=Api&P=0&h=180",
+    "description": "Advanced electric toothbrush with multiple modes.",
+    "ratings": 4
+  },
+  {
+    "id": 21,
+    "name": "Smart Thermostat",
+    "price": 149.99,
+    "image": "https://tse1.mm.bing.net/th?id=OIP.MMXJUfsrjMFyfsXgZxSBDAAAAA&pid=Api&P=0&h=180",
+    "description": "Smart thermostat for efficient home heating and cooling.",
+    "ratings": 5
+  },
+  {
+    "id": 22,
+    "name": "Streaming Media Player",
+    "price": 59.99,
+    "image": "https://tse1.mm.bing.net/th?id=OIP.Mj9JBnV0uRWWknyq53tndQHaFt&pid=Api&P=0&h=180",
+    "description": "Stream your favorite shows and movies with ease.",
+    "ratings": 4
+  },
+  {
+    "id": 23,
+    "name": "Portable Hard Drive",
+    "price": 89.99,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.mTUOpYaNjwSrCDbaGRbVVQHaHa&pid=Api&P=0&h=180",
+    "description": "Compact portable hard drive with large storage capacity.",
+    "ratings": 4
+  },
+  {
+    "id": 24,
+    "name": "Noise Cancelling Headphones",
+    "price": 199.99,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.t4E48wuaAkQS2lcFQjXrRQHaHa&pid=Api&P=0&h=180",
+    "description": "Premium headphones with active noise cancellation.",
+    "ratings": 5
+  },
+  {
+    "id": 25,
+    "name": "Smart Doorbell",
+    "price": 129.99,
+    "image": "https://www.bhphotovideo.com/images/images2500x2500/bot_home_automation_88rg001fc100_ring_doorbell_polished_1143884.jpg",
+    "description": "Smart doorbell with video recording and alerts.",
+    "ratings": 4
+  },
+  {
+    "id": 26,
+    "name": "Electric Shaver",
+    "price": 59.99,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.hvn2tI6KrlIPcGJLftnhrwHaHa&pid=Api&P=0&h=180",
+    "description": "Smooth and comfortable shave with this electric shaver.",
+    "ratings": 4
+  },
+  {
+    "id": 27,
+    "name": "Smart Water Bottle",
+    "price": 39.99,
+    "image": "https://tse4.mm.bing.net/th?id=OIP.omaGcJBgi_o4xfk21hISQgHaHa&pid=Api&P=0&h=180",
+    "description": "Track your water intake with this smart bottle.",
+    "ratings": 3
+  },
+  {
+    "id": 28,
+    "name": "Virtual Reality Headset",
+    "price": 299.99,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.3hST3RsqPSASLt6GhEkTwQHaHa&pid=Api&P=0&h=180",
+    "description": "Experience immersive VR with this high-quality headset.",
+    "ratings": 5
+  },
+  {
+    "id": 29,
+    "name": "Wireless Keyboard",
+    "price": 49.99,
+    "image": "https://m.media-amazon.com/images/I/61IgTBjGblL._AC_SL1500_.jpg",
+    "description": "Sleek wireless keyboard with long battery life.",
+    "ratings": 4
+  },
+  {
+    "id": 30,
+    "name": "Smart Scale",
+    "price": 59.99,
+    "image": "https://tse4.mm.bing.net/th?id=OIP.Mvd2rr9HbN-pN7DpQ8GRXAAAAA&pid=Api&P=0&h=180",
+    "description": "Monitor your weight and body composition with this smart scale.",
+    "ratings": 4
+  }
+]
